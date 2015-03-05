@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomeBackOffice", "RomeBackOffice\RomeBackOffice.csproj", "{110EC6CE-4A2D-4DFE-8BFB-16171669A47D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomeBackOffice.Tests", "RomeBackOffice.Tests\RomeBackOffice.Tests.csproj", "{E01C9378-5239-4451-927D-68465B261493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110EC6CE-4A2D-4DFE-8BFB-16171669A47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110EC6CE-4A2D-4DFE-8BFB-16171669A47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110EC6CE-4A2D-4DFE-8BFB-16171669A47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110EC6CE-4A2D-4DFE-8BFB-16171669A47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01C9378-5239-4451-927D-68465B261493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01C9378-5239-4451-927D-68465B261493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01C9378-5239-4451-927D-68465B261493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01C9378-5239-4451-927D-68465B261493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
